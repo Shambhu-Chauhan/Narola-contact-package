@@ -1,4 +1,4 @@
 <?php
 return [
-'send_email_to' => 'sha@gmail.com'
+'send_email_to' => 'sha@narola.email'
 ];
