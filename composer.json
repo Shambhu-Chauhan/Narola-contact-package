@@ -1,0 +1,20 @@
+{
+    "name": "narolafumes/contact",
+    "description": "This will send email to admin functionality in laravel and save the value in a database. ",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Narola",
+            "email": "demo.narola@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Narolafumes\\Contact\\": "src/"
+        }
+    }
+}
+
