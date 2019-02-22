@@ -11,7 +11,7 @@
 <body>
 
 <div class="container">
-  <h2>User email send </h2>
+  <h2>Contact us</h2>
   <form action="{{ route('contact') }}" method="POST">
     <div class="form-group">
       <label for="Text">Text:</label>
